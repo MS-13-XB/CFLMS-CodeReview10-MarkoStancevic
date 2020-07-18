@@ -1,0 +1,13 @@
+Dear trainers,
+
+i want to say you, that my frontend is not so advanced i would like to be, i had some difficulties with 
+the bootstrap and the connection  from bootstrap/HTML5/CSS with php;
+
+I did just a small version from the database, i will send you next week my version of the libary.
+
+Thank you 
+
+
+Your Sincerely
+
+Marko Stancevic
